@@ -1,0 +1,21 @@
+[
+  {
+    "id": 0,
+    "name": "Frieda",
+    "picture": "images/frieda.jpg",
+    "address": "0x1D563584cd014adD3928e9eD7969506C850A785d"
+  },
+  {
+    "id": 1,
+    "name": "Gina",
+    "picture": "images/gina.jpg",
+    "address": "0xf4F605b22fA2f32152dF5634d49D67B883D08E88"
+  },
+  {
+    "id": 2,
+    "name": "Collins",
+    "picture": "images/colins.jpg",
+    "address": "0xD162eaA17FBf13969DAd3a8d251A1f51b61da019"
+  }
+]
+  
